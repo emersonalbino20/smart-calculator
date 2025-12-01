@@ -1,0 +1,15 @@
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/bin/Debug/net9.0/SmartCalculator
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/bin/Debug/net9.0/SmartCalculator.deps.json
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/bin/Debug/net9.0/SmartCalculator.runtimeconfig.json
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/bin/Debug/net9.0/SmartCalculator.dll
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/bin/Debug/net9.0/SmartCalculator.pdb
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.AssemblyInfoInputs.cache
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.AssemblyInfo.cs
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.csproj.CoreCompileInputs.cache
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.sourcelink.json
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.dll
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/refint/SmartCalculator.dll
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.pdb
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/SmartCalculator.genruntimeconfig.cache
+/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/Debug/net9.0/ref/SmartCalculator.dll

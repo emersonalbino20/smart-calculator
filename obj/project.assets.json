@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/SmartCalculator/SmartCalculator.csproj",
+      "projectUniqueName": "/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/SmartCalculator.csproj",
       "projectName": "SmartCalculator",
-      "projectPath": "/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/SmartCalculator/SmartCalculator.csproj",
+      "projectPath": "/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/SmartCalculator.csproj",
       "packagesPath": "/home/emersom/.nuget/packages/",
-      "outputPath": "/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/SmartCalculator/obj/",
+      "outputPath": "/home/emersom/Documentos/Recruta 5/42-cadete/smart-calculator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/emersom/.nuget/NuGet/NuGet.Config"
