@@ -23,7 +23,7 @@
 			int n1, n2;
 			Operations math = new Operations();
 
-			Console.WriteLine("insert first value: ");
+			Console.Write("insert first value: ");
 			n1 = Atoi(Console.ReadLine());
 			Console.Write("insert second value: ");
 			n2 = Atoi(Console.ReadLine());
