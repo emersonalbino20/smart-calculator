@@ -71,7 +71,7 @@ smart-calculator/
 
 * Repetition structures
 
-* TryParse and basic error handling
+* TryParse
 
 * Simple code organization in C#
 
