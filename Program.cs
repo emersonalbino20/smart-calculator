@@ -42,7 +42,7 @@
 		{
 			int option;
 
-			Console.WriteLine("warning: if not pass a valid integer number, it will treat as zero (0).");
+			Console.WriteLine("warning: if not pass a valid integer number, it will be treated as zero (0).");
 			do{
 				ShowOptions();
 				Console.Write("insert option:  ");
